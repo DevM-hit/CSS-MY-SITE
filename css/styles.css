@@ -1,0 +1,142 @@
+body{
+margin: 0;
+text-align: center;
+font-family: 'PT Serif', serif;
+
+}
+
+
+
+h1
+{
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+font-size: 5.62rem;
+color: #66BFBF;
+
+}
+h2{
+font-family: 'PT Serif', serif;
+font-size: 2.5rem;
+color: #66BFBF;
+font-weight: normal;
+line-height: double;
+}
+
+h3{
+font-family: 'PT Serif', serif;
+color: #11999E;
+}
+
+.top-container{
+  background-color: #FFEEAD;
+
+position:relative;
+padding-top: 70px;
+}
+
+.profile{
+  margin: 50px auto;
+}
+.contact-me{
+  margin: 80px auto 80px auto;
+}
+.bottom-container{
+  padding-top: 30px;
+  padding-bottom: 30px;
+line-height: 2;
+background-color: #FFEEAD;}
+
+a{
+  color:#11999E;
+  font-family: 'PT Serif', serif;
+  text-decoration: none;
+  margin: 10px 20px;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+.top-cloud{
+  position: absolute;
+  left: 70%;
+  top:20px;
+
+}
+.bottom-cloud{
+  position:absolute;
+  left: 20%;
+  top:300px;
+}
+
+.profile-pic{
+  width: 10%;
+}
+.skills{
+  margin:50px auto;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.copyright{
+  margin: 50px auto 0 auto;
+  color: grey;
+}
+.skill-one{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+
+
+}
+.skill-two{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+
+}
+  .btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.para{
+  margin-bottom: 40px;
+}
+.profile-pic{
+  margin-top: 40px;
+}
+hr{
+  width:3%;
+  border-style:none ;
+  border-top-style: dotted;
+  border-color: grey;
+
+border-width: 5px;}
